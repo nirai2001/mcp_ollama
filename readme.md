@@ -78,3 +78,5 @@ OLLAMA_MODEL=llama3.1
 ```bash
 python mcp_ollama_client.py
 ```
+## Start chatting!
+The bot will automatically use available tools when needed.
