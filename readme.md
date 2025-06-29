@@ -24,7 +24,7 @@ A Python chatbot that integrates with Ollama and multiple Model Context Protocol
 
 ## Prerequisites
 
-- Python   
+- Python>=3.10
 - Ollama installed and running locally  
 - Node.js (required for some MCP servers)   
 
