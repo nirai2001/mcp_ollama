@@ -80,3 +80,7 @@ python mcp_ollama_client.py
 ```
 ## Start chatting!
 The bot will automatically use available tools when needed.
+
+## License
+**MIT License**
+Copyright (c) 2024 [Nirai pandiyan pandiyaraj]
